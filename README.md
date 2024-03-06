@@ -1,1 +1,1 @@
-Password brute force attack for websites. Only for testing purposes. No malicious use intended.
+Password brute force attack. Only for testing and learning purposes.
